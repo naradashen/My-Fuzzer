@@ -40,6 +40,6 @@ g++ main.cpp -o fuzzer
 
 - For more details make sure to watch this video tutorial 😎
 ```bash
-https://www.youtube.com/watch?v=ttDrYujX4z0&t=334s
+https://www.youtube.com/watch?v=ttDrYujX4z0
 ```
 🖖
